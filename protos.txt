@@ -1,0 +1,13 @@
+WWW
+Kaspersky
+NTP
+STUN
+Mail
+SSH
+Jabber
+FlashPlayer
+RTMP
+FTP
+Shoutcast
+BitTorrent
+Skype
